@@ -1,0 +1,11 @@
+body{
+    background-color: greenyellow;
+}
+
+a{
+    color: red;
+}
+
+a:hover{
+    color: black;
+}
